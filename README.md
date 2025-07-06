@@ -81,4 +81,10 @@ Username: Salar    | PIN: 1515 | Balance: PKR 900
 - 👩‍💻 **Yumna Arif**
 
 > _Together we thrive._
+---
+
+## ⭐ Star the Repo
+
+If you found this project helpful, please consider giving it a ⭐ on  
+👉 [GitHub – Waseem-Muhammad/ATM-Banking--System](https://github.com/Waseem-Muhammad/ATM-Banking--System)
 
